@@ -30,4 +30,5 @@ RSpec.describe User, type: :model do
 
   # It returns a user's full name as a string
   it "ユーザーのフルネームを⽂字列として返すこと"
+  It
 end
